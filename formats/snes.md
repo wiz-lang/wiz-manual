@@ -1,0 +1,2 @@
+# SNES \(.sfc, .smc\)
+

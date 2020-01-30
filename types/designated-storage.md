@@ -1,0 +1,2 @@
+# Designated Storage Types
+
