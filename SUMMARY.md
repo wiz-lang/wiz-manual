@@ -4,7 +4,6 @@
 
 ## Declarations
 
-* [Declarations](declarations/declarations.md)
 * [Bank Declarations](declarations/bank.md)
 * [Let Declarations](declarations/let.md)
 * [Constant Declarations](declarations/const.md)
