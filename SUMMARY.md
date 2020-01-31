@@ -43,6 +43,7 @@
 * [Boolean Literals](expressions/bool.md)
 * [Integer Literals](expressions/integer.md)
 * [Array Literals](expressions/array.md)
+* [String Literals](expressions/string.md)
 * [Struct/Union Literals](expressions/struct-union.md)
 * [Tuple Literals](expressions/tuple.md)
 * [Identifier Expressions](expressions/identifier.md)

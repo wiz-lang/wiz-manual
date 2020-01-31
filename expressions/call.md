@@ -1,2 +1,6 @@
 # Call Expressions
 
+```text
+foo();
+```
+

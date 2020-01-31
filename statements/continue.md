@@ -1,2 +1,6 @@
 # Continue Statements
 
+```text
+continue;
+```
+

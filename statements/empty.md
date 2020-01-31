@@ -1,2 +1,8 @@
 # Empty Statements
 
+```text
+;
+```
+
+
+

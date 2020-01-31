@@ -1,2 +1,13 @@
 # Operator Expressions
 
+```text
++
+-
+/
+*
+%
+<<
+>>
+etc
+```
+
