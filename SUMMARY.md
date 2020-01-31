@@ -4,10 +4,10 @@
 
 ## Declarations
 
-* [Declarations](declarations/declarations/README.md)
-  * [Bank Declarations](declarations/declarations/bank.md)
-  * [Let Declarations](declarations/declarations/let.md)
-  * [Constant Declarations](declarations/declarations/const.md)
+* [Declarations](declarations/declarations.md)
+* [Bank Declarations](declarations/bank.md)
+* [Let Declarations](declarations/let.md)
+* [Constant Declarations](declarations/const.md)
 * [Variable Declarations](declarations/var.md)
 * [Function Declarations](declarations/func.md)
 * [Label Declarations](declarations/label.md)
