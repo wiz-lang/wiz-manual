@@ -1,7 +1,3 @@
----
-modified: 2020-02-01T17:19:34-05:00
----
-
 # Expression Statements
 
 An expression statement evaluates some expression that performs a side-effect, such as assignment or calling a function.
